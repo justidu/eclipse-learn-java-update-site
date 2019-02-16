@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/java.practice.feature_1.0.0.jar" id="java.practice.feature" version="1.0.0"/>
+   <feature url="features/java.practice.feature_1.0.0.jar" id="java.practice.feature" version="1.0.0">
+      <category name="itranswarpJavaPractice"/>
+   </feature>
+   <category-def name="itranswarpJavaPractice" label="Java Practice"/>
 </site>
