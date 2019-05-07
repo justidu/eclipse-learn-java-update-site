@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
    <feature url="features/java.practice.feature_1.0.0.jar" id="java.practice.feature" version="1.0.0">
-      <category name="com.itranswarp.javapractice"/>
+      <category name="com.itranswarp.javapractice.category"/>
    </feature>
-   <category-def name="com.itranswarp.javapractice" label="Java Practice"/>
+   <category-def name="com.itranswarp.javapractice.category" label="Java Practice">
+      <description>
+         Java Practice for Eclipse
+      </description>
+   </category-def>
 </site>
